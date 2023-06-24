@@ -31,7 +31,7 @@
 	<h2>Reviews:</h2>
 	<div class="iner">
 		<h1>The site does not have reviews yet, as it is under development.</h1>
-		<p>It will be published in Beta testing soon</p>
+		<p>This feature will be added in Beta testing</p>
 	</div>
 	<table>
 		<tr>

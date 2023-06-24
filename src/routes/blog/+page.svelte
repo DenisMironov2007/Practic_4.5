@@ -28,7 +28,7 @@
 </style>
 
 <div class="container">
-	<h1>My projects</h1>
+	<h1>My posts</h1>
 	<div class="blogposts">
 		{#each routes as page}
 			<div class="post">
